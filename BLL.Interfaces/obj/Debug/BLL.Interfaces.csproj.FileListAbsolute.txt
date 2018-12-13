@@ -1,0 +1,9 @@
+C:\Users\Akim_\source\repos\RESTAPI\BLL.Interfaces\bin\Debug\RESTAPI.Services.Interfaces.dll
+C:\Users\Akim_\source\repos\RESTAPI\BLL.Interfaces\bin\Debug\RESTAPI.Services.Interfaces.pdb
+C:\Users\Akim_\source\repos\RESTAPI\BLL.Interfaces\obj\Debug\BLL.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Akim_\source\repos\RESTAPI\BLL.Interfaces\obj\Debug\RESTAPI.Services.Interfaces.dll
+C:\Users\Akim_\source\repos\RESTAPI\BLL.Interfaces\obj\Debug\RESTAPI.Services.Interfaces.pdb
+C:\Users\Akim_\source\repos\RESTAPI\BLL.Interfaces\bin\Debug\RESTAPI.DAL.Interfaces.dll
+C:\Users\Akim_\source\repos\RESTAPI\BLL.Interfaces\bin\Debug\RESTAPI.DAL.Interfaces.pdb
+C:\Users\Akim_\source\repos\RESTAPI\BLL.Interfaces\obj\Debug\BLL.Interfaces.csprojAssemblyReference.cache
+C:\Users\Akim_\source\repos\RESTAPI\BLL.Interfaces\obj\Debug\BLL.Interfaces.csproj.CopyComplete

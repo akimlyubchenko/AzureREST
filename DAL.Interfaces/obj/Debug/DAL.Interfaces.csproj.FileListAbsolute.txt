@@ -1,0 +1,6 @@
+C:\Users\Akim_\source\repos\RESTAPI\DAL.Interfaces\bin\Debug\RESTAPI.DAL.Interfaces.dll
+C:\Users\Akim_\source\repos\RESTAPI\DAL.Interfaces\bin\Debug\RESTAPI.DAL.Interfaces.pdb
+C:\Users\Akim_\source\repos\RESTAPI\DAL.Interfaces\obj\Debug\DAL.Interfaces.csprojAssemblyReference.cache
+C:\Users\Akim_\source\repos\RESTAPI\DAL.Interfaces\obj\Debug\DAL.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Akim_\source\repos\RESTAPI\DAL.Interfaces\obj\Debug\RESTAPI.DAL.Interfaces.dll
+C:\Users\Akim_\source\repos\RESTAPI\DAL.Interfaces\obj\Debug\RESTAPI.DAL.Interfaces.pdb
